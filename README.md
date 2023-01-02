@@ -1,5 +1,5 @@
 # SimpleLogin-CloudflareUpdate
-A Repo to keep some quick data to support adding a domain to SimpleLogin in Cloudflare
+A Repo to help make SimpleLogin subdomains quikcly via CloudFlare. 
 
 # First Time Setup
 
